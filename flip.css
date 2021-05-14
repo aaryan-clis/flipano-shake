@@ -1,0 +1,49 @@
+h1{
+    text-align: center;
+    color: darkorange;
+    background-color: black;
+    padding: 15px;
+    
+}
+ul{
+  list-style: none ;
+  background-color: #663366;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+li{
+    display: inline-block;
+}
+a{
+    text-decoration: none;
+    color: #ffff;
+    width: 100px;
+    display: block;
+    padding: 15px;
+    font-size: 17px;
+    font-family: Helvetica;
+    
+
+}
+img{
+    display: block;
+ margin-left: 690px;
+ margin-bottom: 12px;
+ margin-top: 55px;
+}
+h2{
+    font-style: oblique;
+    margin-left: 690px;
+}
+button{
+    margin-left: 565px;
+    width: 24%;
+}
+h3{
+    text-align: center;
+    color: blue;
+    font-size: 1.5cm;
+    background-color: gold;
+
+}
